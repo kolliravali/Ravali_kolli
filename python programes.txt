@@ -1,0 +1,93 @@
+1) Write a program to reverse an integer in Python.
+2) Write a program in Python to check whether an integer is Armstrong number or not.
+3) Write a program in Python to check given number is prime or not.
+4)Write a program in Python to check whether a number is palindrome or not using iterative method.
+5)Write a program in Python to check whether a number is palindrome or not using recursive method.
+6)Write a program in Python to find greatest among three integers.
+7)Write a program in Python to check if a number is binary?
+8)Write a program in Python to find sum of digits of a number using recursion?
+9)Write a program in Python to swap two numbers without using third variable?
+10) Write a program in Python to swap two numbers using third variable?
+11) Write a program in Python to find prime factors of a given integer.
+12) Write a program in Python to add two integer without using arithmetic operator?
+13) Write a program in Python to find given number is perfect or not?
+14) Python Program to find the Average of numbers with explanations.
+15) Python Program to calculate factorial using iterative method.
+16) Python Program to calculate factorial using recursion.
+17) Python Program to check a given number is even or odd.
+18) Python program to print first n Prime Number with explanation.
+19) Python Program to print Prime Number in a given range.
+20) Python Program to find Smallest number among three.
+21) Python program to calculate the power using the POW method.
+22) Python Program to calculate the power without using POW function.(using for loop)
+23) Python Program to calculate the power without using POW function.(using while loop).
+24) Python Program to calculate the square of a given number.
+25) Python Program to calculate the cube of a given number.
+26) Python Program to calculate the square root of a given number.
+27) Python program to calculate LCM of given two numbers.
+28) Python Program to find GCD or HCF of two numbers.
+29_ Python Program to find GCD of two numbers using recursion.
+30) Python Program to Convert Decimal Number into Binary.
+31) Python Program to convert Decimal number to Octal number.
+32) Python Program to check the given year is a leap year or not.
+33) Python Program to convert Celsius to Fahrenheit.
+34) Python Program to convert Fahrenheit to Celsius.
+35) Python program to calculate Simple Interest with explanation.
+
+ Python Coding Questions on String:
+
+36) Python program to remove given character from String.
+37) Python Program to count occurrence of a given characters in string.
+38) Python Program to check if two Strings are Anagram.
+39) Python program to check a String is palindrome or not.
+40) Python program to check given character is vowel or consonant.
+41) Python program to check given character is digit or not.
+42) Python program to check given character is digit or not using isdigit() method.
+43) Python program to replace the string space with a given character.
+44) Python program to replace the string space with a given character using replace() method.
+45) Python program to convert lowercase char to uppercase of string.
+46) Python program to convert lowercase vowel to uppercase in string.
+47) Python program to delete vowels in a given string.
+48) Python program to count the Occurrence Of Vowels & Consonants in a String.
+49) Python program to print the highest frequency character in a String.
+50) Python program to Replace First Occurrence Of Vowel With ‘-‘ in String.
+51) Python program to count alphabets, digits and special characters.
+52) Python program to separate characters in a given string.
+53) Python program to remove blank space from string.
+54) Python program to concatenate two strings using join() method.
+55) Python program to concatenate two strings without using join() method.
+56) Python program to remove repeated character from string.
+57) Python program to calculate sum of integers in string.
+58) Python program to print all non repeating character in string.
+59) Python program to copy one string to another string.
+60) Python Program to sort characters of string in ascending order.
+61) Python Program to sort character of string in descending order.
+
+Python Coding Questions on Array:
+
+62) Write a program in Python for, In array 1-100 numbers are stored, one number is missing how do you find it.
+63  Write a program in Python for, In a array 1-100 multiple numbers are duplicates, how do you find it.
+64) Write a program in Python for, How to find all pairs in array of integers whose sum is equal to given number.
+65) Write a program in Python for, How to compare two array is equal in size or not.
+66) Write a program in Python to find largest and smallest number in array.
+67) Write a program in Python to find second highest number in an integer array.
+68) Write a program in Python to find top two maximum number in array?
+69) Write a program in Python to remove duplicate elements form array.
+70) Python program to find top two maximum number in array.
+71) Python program to print array in reverse Order.
+72) Python program to reverse an Array in two ways.
+73) Python Program to calculate length of an array.
+74) Python program to insert an element at end of an Array.
+75) Python program to insert element at a given location in Array.
+76) Python Program to delete element at end of Array.
+77) Python Program to delete given element from Array.
+78) Python Program to delete element from array at given index.
+79) Python Program to find sum of array elements.
+80) Python Program to print all even numbers in array.
+81) Python Program to print all odd numbers in array.
+82) Python program to perform left rotation of array elements by two positions.
+83) Python program to perform right rotation in array by 2 positions.
+84) Python Program to merge two arrays.
+85) Python Program to find highest frequency element in array.
+86) Python Program to add two number using recursion.
+
